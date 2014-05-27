@@ -1,7 +1,7 @@
 google-maps-reference
 =====================
 
-Google Maps JavaScript API V3 Reference
+Google Maps Javascript API v3 reference
 
 Includes code examples for the following tasks:
 
