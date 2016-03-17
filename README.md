@@ -1,9 +1,11 @@
-google-maps-reference
-=====================
+# google-maps-reference
 
 Google Maps Javascript API v3 reference
 
-Includes code examples for the following tasks:
+
+### What's this? ###
+
+google-maps-reference is a collection of Google Maps Javascript API code examples:
 
 * 45° imagery
 * toggle controls
@@ -18,4 +20,7 @@ Includes code examples for the following tasks:
 * add markers on click
 * attempt geolocation
 
-Why? Because it's at least the 3rd time I've had to go through the documentation at https://developers.google.com/maps/documentation/javascript/ for the exact same code.
+
+### Why? ###
+
+Because it's at least the 3rd time I've had to go through the documentation at https://developers.google.com/maps/documentation/javascript/ for the exact same code.
